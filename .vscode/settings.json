@@ -3,5 +3,6 @@
     "source.fixAll.eslint": "explicit" // ファイル保存時にESLintの自動修正を実行する
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode", // Prettierをフォーマッターとして設定
-  "editor.formatOnSave": true // ファイル保存時にフォーマットする
+  "editor.formatOnSave": true, // ファイル保存時にフォーマットする
+  "markuplint.enable": true // Markuplintを有効化する
 }
