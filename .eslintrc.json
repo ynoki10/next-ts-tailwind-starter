@@ -13,6 +13,7 @@
   },
   "rules": {
     "unused-imports/no-unused-imports": "error",
+    "react/jsx-sort-props": "error",
     "import/order": [
       "error",
       {
